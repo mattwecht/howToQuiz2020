@@ -14,6 +14,7 @@
 		E0D9617C24BDF88500459AE0 /* howToQuiz2020.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E0D9617A24BDF88500459AE0 /* howToQuiz2020.xcdatamodeld */; };
 		E0D9617E24BDF88F00459AE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0D9617D24BDF88F00459AE0 /* Assets.xcassets */; };
 		E0D9618124BDF88F00459AE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0D9617F24BDF88F00459AE0 /* LaunchScreen.storyboard */; };
+		E0D9618924BDF9F800459AE0 /* resultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0D9618824BDF9F800459AE0 /* resultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E0D9617D24BDF88F00459AE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0D9618024BDF88F00459AE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0D9618224BDF88F00459AE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0D9618824BDF9F800459AE0 /* resultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E0D9617324BDF88500459AE0 /* SceneDelegate.swift */,
 				E0D9617524BDF88500459AE0 /* ViewController.swift */,
 				E0D9617724BDF88500459AE0 /* Main.storyboard */,
+				E0D9618824BDF9F800459AE0 /* resultsViewController.swift */,
 				E0D9617D24BDF88F00459AE0 /* Assets.xcassets */,
 				E0D9617F24BDF88F00459AE0 /* LaunchScreen.storyboard */,
 				E0D9618224BDF88F00459AE0 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0D9618924BDF9F800459AE0 /* resultsViewController.swift in Sources */,
 				E0D9617C24BDF88500459AE0 /* howToQuiz2020.xcdatamodeld in Sources */,
 				E0D9617624BDF88500459AE0 /* ViewController.swift in Sources */,
 				E0D9617224BDF88500459AE0 /* AppDelegate.swift in Sources */,
