@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+//this is a sample method but could be changed
 class ViewController: UIViewController {
 
 
